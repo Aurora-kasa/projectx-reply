@@ -1,6 +1,0 @@
-name = "projectx-reply"
-main = "src/index.js"
-compatibility_date = "2025-09-27"
-
-[env.production]
-vars = { DAILY_LIMIT = "50" }
