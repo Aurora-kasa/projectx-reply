@@ -2,9 +2,9 @@
 const SMTP = {
   host: "smtp.163.com",
   port: 587,
-  user: "你的163邮箱@163.com",   // 例如 hello@163.com
-  pass: "你的163授权码",        // 16 位，不是登录密码
-  from: "你的163邮箱@163.com"   // 显示发件人
+  user: "helloc0927@163.com",      // 163 登录名
+  pass: "TCnbrJeGBHcPupGd",        // 16 位授权码
+  from: "hello@voidsprite.qzz.io"  // 外观发件人（代发）
 };
 
 // ===== 彩色 HTML 回复内容 =====
