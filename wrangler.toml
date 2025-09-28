@@ -4,3 +4,6 @@ compatibility_date = "2025-09-27"
 
 [env.production]
 vars = { DAILY_LIMIT = "50" }
+[[routes]]
+pattern = "auto-reply.voidsprite.qzz.io/*"
+zone_name = "voidsprite.qzz.io"
